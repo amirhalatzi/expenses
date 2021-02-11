@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'rails'
+gem 'rails', '>= 6.0.3.5'
 
 gem 'sqlite3'
 
